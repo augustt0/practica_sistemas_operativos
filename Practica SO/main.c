@@ -3,6 +3,7 @@
 void nasi(void);
 int main()
 {
+    nasi();
     printf("Hola como estas estoy probando github");
     return 0;
 }
