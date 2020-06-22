@@ -1,7 +1,7 @@
 # practica_sistemas_operativos
  
  ## Contenido
-Paginas HTML. Fin.
+Programa en C. Fin.
  
  ## Participantes
 Cabrera, Nasi y Valverdi
