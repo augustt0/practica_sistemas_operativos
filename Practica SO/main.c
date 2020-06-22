@@ -16,3 +16,14 @@ void nasi()
     r= 3+3;
     printf("%d", r);
 }
+
+void nasi()
+{
+    int r;
+    printf("modificado en la BranchNasi");
+
+    r=3+3;
+
+    printf("%d", r);
+
+}
