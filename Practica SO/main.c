@@ -9,5 +9,9 @@ int main()
 
 void nasi()
 {
-    printf("modificado en la BranchNasi")
+    int r;
+    printf("modificado en la BranchNasi");
+
+    r= 3+3;
+    printf("%d", r);
 }
